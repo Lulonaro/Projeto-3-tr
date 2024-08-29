@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudança Climática</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2e8b57;
+        }
+        h2 {
+            color: #4682b4;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mudança Climática</h1>
+        <img src="https://example.com/climate-change-image.jpg" alt="Mudança Climática">
+        <p>A mudança climática refere-se às alterações significativas e duradouras nos padrões de clima global e regional. Estas mudanças podem ser causadas por fatores naturais, como erupções vulcânicas e variações solares, mas a maioria das evidências aponta que as atividades humanas são a principal causa do aquecimento global atual.</p>
+        
+        <h2>Causas da Mudança Climática</h2>
+        <p>O principal motor da mudança climática moderna é a emissão de gases de efeito estufa, como dióxido de carbono (CO₂), metano (CH₄) e óxidos de nitrogênio (NOx). Estas emissões provêm principalmente da queima de combustíveis fósseis (como carvão, petróleo e gás natural), desmatamento e práticas agrícolas inadequadas. Esses gases retêm o calor na atmosfera, levando ao aumento das temperaturas globais.</p>
+        
+        <h2>Consequências</h2>
+        <p>As consequências da mudança climática são vastas e diversas. Entre as mais notáveis estão o aumento da temperatura média global, elevação do nível do mar, mudanças nos padrões de precipitação e aumento na frequência e intensidade de eventos climáticos extremos, como furacões e secas. Estas mudanças afetam ecossistemas, biodiversidade, e têm impactos significativos sobre a saúde humana, a agricultura e a segurança alimentar.</p>
+        
+        <h2>O Que Podemos Fazer</h2>
+        <p>Combater a mudança climática exige ações em múltiplos níveis. Entre as medidas que indivíduos e sociedades podem adotar estão a redução do consumo de energia, a adoção de fontes de energia renovável, o aumento da eficiência energética, a preservação das florestas e a promoção de práticas agrícolas sustentáveis. Além disso, políticas públicas e acordos internacionais, como o Acordo de Paris, são essenciais para coordenar esforços globais na mitigação das mudanças climáticas.</p>
+        
+        <p>A conscientização e a ação individual também desempenham um papel crucial. Cada um de nós pode contribuir para a proteção do meio ambiente através de escolhas diárias, como reduzir o desperdício de alimentos, utilizar transporte sustentável e apoiar políticas e iniciativas que promovam a sustentabilidade.</p>
+    </div>
+</body>
+</html>
